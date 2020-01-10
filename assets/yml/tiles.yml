@@ -1,0 +1,121 @@
+tiles:
+  rock1:
+    ref: rock1
+    img: ""
+    img_burn: ""
+    type: rock
+  forest1:
+    ref: forest1
+    img: ""
+    img_burn: ""
+    type: forest
+  tree1:
+    ref: tree1
+    img: ""
+    img_burn: ""
+    type: tree
+  mountain1:
+    ref: mountain1
+    img: ""
+    img_burn: ""
+    type: mountain
+  autumntree1:
+    ref: autumntree1
+    img: ""
+    img_burn: ""
+    type: tree
+  stump1:
+    ref: stump1
+    img: ""
+    img_burn: ""
+    type: stump
+  daisies1:
+    ref: daisies1
+    img: ""
+    img_burn: ""
+    type: daisies
+  tunnel1:
+    ref: tunnel1
+    img: ""
+    img_burn: ""
+    type: tunnel
+  forest2:
+    ref: forest2
+    img: ""
+    img_burn: ""
+    type: forest
+  stump2:
+    ref: stump2
+    img: ""
+    img_burn: ""
+    type: stump
+  forest3:
+    ref: forest3
+    img: ""
+    img_burn: ""
+    type: forest
+  cottage1:
+    ref: cottage1
+    img: ""
+    img_burn: ""
+    type: cottage
+  tree2:
+    ref: tree2
+    img: ""
+    img_burn: ""
+    type: tree
+  cottage2:
+    ref: cottage2
+    img: ""
+    img_burn: ""
+    type: cottage
+  autumntree2:
+    ref: autumntree2
+    img: ""
+    img_burn: ""
+    type: tree
+  orangeberries:
+    ref: orangeberries
+    img: ""
+    img_burn: ""
+    type: tree
+  blueberries:
+    ref: blueberries
+    img: ""
+    img_burn: ""
+    type: tree
+  cottage3:
+    ref: cottage3
+    img: ""
+    img_burn: ""
+    type: cottage
+  daisies2:
+    ref: daisies2
+    img: ""
+    img_burn: ""
+    type: daisies
+  mountain2:
+    ref: mountain2
+    img: ""
+    img_burn: ""
+    type: mountain
+  lake:
+    ref: lake
+    img: ""
+    img_burn: ""
+    type: lake
+  tunnel2:
+    ref: tunnel2
+    img: ""
+    img_burn: ""
+    type: tunnel
+  autumntree3:
+    ref: autumntree3
+    img: ""
+    img_burn: ""
+    type: tree
+  forest4:
+    ref: forest4
+    img: ""
+    img_burn: ""
+    type: forest

@@ -1,0 +1,115 @@
+action:
+  dan:
+    name: Flip 'em Up Dan
+    ref: dan
+    a: 4
+    desc: After Trogdor's actions, he may burninate any number of adjacent tiles to the North, South, East, or West.
+    q: 1
+  fran:
+    name: Flip 'em Up Fran
+    ref: fran
+    a: 4
+    desc: After Trogdor's actions, he may burninate any number of diagonally adjacent tiles.
+    q: 1
+  path:
+    name: Path o' Burnination
+    ref: path
+    a: 0
+    desc: Take no action this turn, even if you have AP. Draw a Movement card; without moving, Trogdor burninates everything in that path.
+    q: 1
+  sidewise:
+    name: Sidewise
+    ref: sidewise
+    a: 5
+    desc: Once during Trogdor's actions, he may burninate an adjacent tile to the North, South, East, or West for free.
+    q: 2
+  wingaling:
+    name: Wingaling
+    ref: wingaling
+    a: 4
+    desc: Before Trogdor's actions, he may jump to any tile.
+    q: 1
+  tunnel:
+    name: Tunnel Warp
+    ref: tunnel
+    a: 5
+    desc: Before Trogdor's actions, you may swap one Tunnel tile with any tile that doesn't contain a Cottage. (Pieces on these tiles move with them, including Trogdor.)
+    q: 1
+  majesty:
+    name: Majesty
+    ref: majesty
+    a: 5
+    desc: Before Trogdor's actions, he may burninate any tile on the board for free.
+    q: 2
+  daisies:
+    namme: Smell the Daisies
+    ref: daises
+    a: 4
+    desc: If Trogdor ends this turn on a flower tile, the next player gets 3 extra AP.
+    q: 2
+  slantwise:
+    name: Slantwise
+    ref: slantwise
+    a: 5
+    desc: Once during Trogdor's actions, he may burninate a diagonally adjacent tile for free.
+    q: 2
+  jhonka:
+    name: Jhonka Help
+    ref: jhonka
+    a: 5
+    desc: Before Trogdor's actions, he may chomp any Peasant on the board for free.
+    q: 1
+  shotput:
+    name: Shot Put
+    ref: shotput
+    a: 5
+    desc: After Trogdor's actions, he may burninate a tile, Peasant, or eligible Cottage from up to 2 tiles away in any single direction.
+    q: 2
+  invis:
+    name: Invisibility
+    ref: invis
+    a: 4
+    desc: During Trogdor's actions, Trogdor can't take damage from the Knights on this turn. (Does not apply to Knights' movement)
+    q: 2
+  high:
+    name: High Energy
+    ref: high
+    a: 7
+    desc: Behold the field in which I grow my Action Points. See how it is rich in nutrients and loam.
+    q: 2
+  consummate:
+    name: Consummate V's
+    ref: consummate
+    a: 4
+    desc: Trogdor gains diagonal movement for this turn.
+    q: 2
+  hidey:
+    name: Hidey Hole
+    ref: hidey
+    a: 4
+    desc: After Trogdor's actions, he may burrow to a Mountain tile and hide there for free.
+    q: 1
+  block:
+    name: Block
+    ref: block
+    a: 4
+    desc: During the Knights' and Archer's actions, Trogdor can't take damage from them on this turn.
+    q: 2
+  stump:
+    name: Stump and Rock
+    ref: stump
+    a: 4
+    desc: Once this turn, if Trogdor burninates a tile with a stump or rock on it, you gain 4 more AP.
+    q: 2
+  wraparound:
+    name: Wraparound
+    ref: wraparound
+    a: 5
+    desc: Trogdor gains wraparound movement this turn.
+    q: 2
+  troghammer:
+    name: Troghammer
+    ref: troghammer
+    a: null
+    desc: Move the Troghammer, then draw another card.
+    q: 7

@@ -1,0 +1,72 @@
+items:
+  pouch:
+    ref: pouch
+    name: Distracto's Pouch
+    use: After you draw a Movement card, you may choose the direction of the Peasant movement.
+    recharge: When Trogdor hides.
+    is_special: false
+  baubles:
+    ref: baubles
+    name: Baubles of Astray
+    use: During Trogdor's actions, move a Knight to an empty tile.
+    recharge: When Trogdor visits a Tunnel.
+    is_special: false
+  voip:
+    ref: voip
+    name: Ring of Voip
+    use: Teleport Trogdor to any tile.
+    recharge: When a Cottage or Cottage tile is burninated.
+    is_special: false
+  flask:
+    ref: flask
+    name: Ye Flask of Dennis
+    use: For the rest of your turn, any burninated Peasants that would go to the Void are added to Trogdor's health instead.
+    recharge: When Trogdor visits the Lake.
+    is_special: false
+  trinket:
+    ref: trinket
+    name: Super Trinket
+    use: Prevent Trogdor from taking a point of damage from the Archer.
+    recharge: When Trogdor visits the Archer or vice versa.
+    is_special: false
+  shield:
+    ref: shield
+    name: Shield of Cumberdale
+    use: Prevent Trogdor from taking a point of damage from the Knight.
+    recharge: When Trogdor gains health.
+    is_special: false
+  fireballs:
+    ref: fireballs
+    name: That Dog Tennis Ball Thing 'cept with Fireballs
+    use: Burninate any tile or eligible Cottage.
+    recharge: When Trogdor visits the corner stone. I mean tile. Any corner tile.
+    is_special: false
+  disk:
+    ref: disk
+    name: Disk of Healing
+    use: Return a Peasant from the Void to the Trog-Meter.
+    recharge: None.
+    is_special: false
+  beans:
+    ref: beans
+    name: Two Gross Beans
+    use: Gain +2 Action Points.
+    recharge: When Trogdor visits the center tile.
+    is_special: false
+  rub:
+    ref: rub
+    name: Old Man Rub
+    use: Trogdor, Peasants, Knights and the Archer are all slathered up with Old Man Rub. For the whole game, on everyone's turns, they are automatically use Tunnels for free when they land on them.
+    recharge: Doesn't need one. But if you want, perform a 30 second infomercial for Old Man Rub.
+    is_special: true
+  keyswordtar:
+    ref: keyswordtar
+    name: Keyswordtar
+    use: On your turn, if any Knight crosses paths with Trogdor during their movements, go get a six-sided die from some other board game. If you roll a 4 or higher, you block the attack!
+    recharge: If bagels happen.
+    is_special: true
+  floaty:
+    ref: floaty
+    name: Trog Floaty
+    use: Before Trogdor's actions, teleport Trogdor and one Peasant to the lake for a pool party.
+    recharge: When somebody takes a bath...okay, fine. Or a shower.

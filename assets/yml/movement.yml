@@ -1,0 +1,261 @@
+movement:
+  0:
+    p: 4
+    pm: nw
+    m: eennn
+    r: false
+  1:
+    p: 4
+    pm: nw
+    m: essw
+    r: false
+  2:
+    p: 4
+    pm: e
+    m: nwnee
+    r: true
+  3:
+    p: 4
+    pm: e
+    m: eennw
+    r: false
+  4:
+    p: 4
+    pm: sw
+    m: wwnn
+    r: false
+  5:
+    p: 4
+    pm: w
+    m: eese
+    r: false
+  6:
+    p: 4
+    pm: e
+    m: nnwwn
+    r: false
+  7:
+    p: 4
+    pm: s
+    m: nwwn
+    r: false
+  8:
+    p: 3
+    pm: ne
+    m: eene
+    r: false
+  9:
+    p: 3
+    pm: n
+    m: ssee
+    r: false
+  10:
+    p: 3
+    pm: sw
+    m: esse
+    r: false
+  11:
+    p: 3
+    pm: ne
+    m: www
+    r: true
+  12:
+    p: 3
+    pm: nw
+    m: wssw
+    r: false
+  13:
+    p: 3
+    pm: se
+    m: wwnen
+    r: false
+  14:
+    p: 3
+    pm: se
+    m: wwsss
+    r: false
+  15:
+    p: 3
+    pm: se
+    m: eess
+    r: false
+  16:
+    p: 2
+    pm: s
+    m: eenwn
+    r: false
+  17:
+    p: 2
+    pm: s
+    m: wwnw
+    r: true
+  18:
+    p: 2
+    pm: ne
+    m: nenww
+    r: false
+  19:
+    p: 2
+    pm: sw
+    m: wwss
+    r: false
+  20:
+    p: 2
+    pm: w
+    m: wwnne
+    r: true
+  21:
+    p: 2
+    pm: s
+    m: ssww
+    r: true
+  22:
+    p: 2
+    pm: w
+    m: neenn
+    r: false
+  23:
+    p: 2
+    pm: n
+    m: wwsw
+    r: true
+  24:
+    p: 2
+    pm: sw
+    m: ssees
+    r: false
+  25:
+    p: 2
+    pm: ne
+    m: eessw
+    r: false
+  26:
+    p: 2
+    pm: ne
+    m: enne
+    r: true
+  27:
+    p: 2
+    pm: sw
+    m: swwn
+    r: true
+  28:
+    p: 1
+    pm: w
+    m: wnnw
+    r: false
+  29:
+    p: 1
+    pm: nw
+    m: nnww
+    r: false
+  30:
+    p: 1
+    pm: n
+    m: sswws
+    r: true
+  31:
+    p: 1
+    pm: n
+    m: eesss
+    r: false
+  32:
+    p: 1
+    pm: w
+    m: eee
+    r: false
+  33:
+    p: 1
+    pm: nw
+    m: nnww
+    r: true
+  34:
+    p: 1
+    pm: n
+    m: neen
+    r: true
+  35:
+    p: 1
+    pm: e
+    m: wnne
+    r: false
+  36:
+    p: 1
+    pm: e
+    m: sees
+    r: true
+  37:
+    p: 1
+    pm: e
+    m: nnen
+    r: true
+  38:
+    p: 1
+    pm: s
+    m: seess
+    r: false
+  39:
+    p: 1
+    pm: n
+    m: wwses
+    r: false
+  40:
+    p: 0
+    pm: w
+    m: sses
+    r: true
+  41:
+    p: 0
+    pm: s
+    m: nneen
+    r: false
+  42:
+    p: 0
+    pm: n
+    m: nees
+    r: false
+  43:
+    p: 0
+    pm: se
+    m: nwwnn
+    r: true
+  44:
+    p: 0
+    pm: nw
+    m: sesww
+    r: true
+  45:
+    p: 0
+    pm: se
+    m: swws
+    r: false
+  46:
+    p: 0
+    pm: se
+    m: ssws
+    r: true
+  47:
+    p: 0
+    pm: sw
+    m: eesws
+    r: true
+  48:
+    p: 0
+    pm: e
+    m: wwsse
+    r: false
+  49:
+    p: 0
+    pm: w
+    m: nnee
+    r: true
+  50:
+    p: 0
+    pm: ne
+    m: eenn
+    r: false
+  51:
+    p: 0
+    pm: s
+    m: wwnnn
+    r: true

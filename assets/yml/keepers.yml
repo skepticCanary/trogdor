@@ -1,0 +1,85 @@
+keepers:
+  stonklar:
+    name: Stonklar
+    power: Wraparound
+    power_desc: On your turn, Trogdor has wraparound movement.
+    bio: Stonky acts like he can't understand you unless you talk in that backwardsy syntax. "The chicken wings to me please pass." Ugh. That guy.
+    img: ""
+    is_special: false
+  galgabudge:
+    name: Galgabudge
+    power: Mountains are tiles
+    power_desc: You may treat Mountain tiles as if they were also Tunnels.
+    bio: Don't listen to what their mom says, Galga IS some kind of moleperson. It's not just a stolen mascot costume from a local school. Like at all.
+    img: ""
+    is_special: false
+  crangolev:
+    name: Crangolev
+    power: +1 AP
+    power_desc: On your turn, gain +1 Action Point.
+    bio: Crangolev is the cool older sister of straight-laced Archer twins Mendelev and Dongolev. She probbly ends sentences by going "yesss?" a lot.
+    img: ""
+    is_special: false
+  brovelade:
+    name: Brovelade
+    power: no peasant repair
+    power_desc: Peasants cannot repair burninated tiles during your turn.
+    bio: Brovelade is the starting toss-monger for the Keepers of Trogdor's official fast-pith goatball team earning a record 8 fatalities last season!
+    img: ""
+    is_special: false
+  worchex:
+    name: Worchex
+    power: no knight repair
+    power_desc: Knights cannot repair Cottages during your turn
+    bio: Worchex has hated Knights since he was refused a high-five at a joust by his fav Knight. Oh, and those wings are just a cool backpack.
+    img: ""
+    is_special: false
+  yubbitz:
+    name: Yubbitz
+    power: trade action cards
+    power_desc: You may trade Action cards with other players, either on your turn or theirs
+    bio: Yubbitz's favourite drink is powdered milk mixed with lemonade, but NOT powdered lemonade mixed with milk. That's gross!
+    img: ""
+    is_special: false
+  cranjegg:
+    name: Cranjegg
+    power: move diagonally
+    power_desc: On your turn, Trogdor may move diagonally.
+    bio: Cranjegg is a fortieth-generation Keeper of Trogdor and feels the pressure. He'd rather pursue his dream of homebrewing "artisanal Old Man Rub".
+    img: ""
+    is_special: false
+  hegeltha:
+    name: Hegeltha
+    power: hide in forests
+    power_desc: On your turn, Trogdor may also use the hide action on any unburninated forest tile.
+    bio: Hegeltha joined the Keepers of Trogdor just to get out of the house a couple nights a week. I heard those antler lanterns are full of peasant teeth. Eww!
+    img: ""
+    is_special: false
+  hardybardy:
+    name: Hardybardy
+    power: none
+    power_desc: You have no special powers. Absolutely none.
+    bio: Hardybardy makes up for his uselessness with cool costumes, pyrotechnics, and a deep, overlordy voice. Available for parties and metal bands.
+    img: ""
+    is_special: false
+  pastry:
+    name: Lord Pastryhorn of Fangleburg
+    power: archers get peasants in the trogmeter
+    power_desc: On your turn, Archer arrows kill Peasants in their path but Knights block them. Add any skewered Peasants to the Trog-Meter.
+    bio: ""
+    img: ""
+    is_special: true
+  haunchgurgler:
+    name: The Haunchgurgler
+    power: disable knights
+    power_desc: On your turn, during Trogdor's actions, he may pound one adjacent in any direction into the ground. Knock over the Knight for this turn only, and don't move the Knight this turn.
+    bio: ""
+    img: ""
+    is_special: true
+  cheat:
+    name: Just The Cheat
+    power: cheat
+    power_desc: Duh, you can cheat. What this means exactly is up to you.
+    bio: ""
+    img: ""
+    is_special: true
